@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShowTime</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="query_button">Query Time</string>
+    <string name="disconnect_button">Disconnect</string>
+    <string name="time_message">The current time is: </string>
+    
+</resources>
